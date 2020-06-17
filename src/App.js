@@ -8,6 +8,7 @@ import ModeSelector from './ModeSelector/ModeSelector';
 import ReactPaginate from 'react-paginate';
 import TableSearch from './TableSearch/TableSearch';
 
+// test react app
 class App extends React.Component {
  
   state = {
